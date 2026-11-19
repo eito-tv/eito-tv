@@ -4,7 +4,7 @@
 
 <br/><br/>
 
-<img src="./assets/profile-card-v2.svg" alt="Eito: ingeniero en sistemas, desarrollo web, automatización y rendimiento" width="100%"/>
+<img src="./assets/profile-card-v3.svg" alt="Eito: egresado de ingeniería en sistemas, desarrollo web, automatización y rendimiento" width="100%"/>
 
 <br/>
 
@@ -17,7 +17,7 @@
 
 <br/><br/>
 
-**Ingeniero en Sistemas.** Construyo sitios web ligeros, automatizo tareas con Python y GitHub Actions, y trabajo con IA (Claude Code, MCP) para crear herramientas propias.<br/>
+**Egresado de Ingeniería en Sistemas.** Construyo sitios web ligeros, automatizo tareas con Python y GitHub Actions, y trabajo con IA (Claude Code, MCP) para crear herramientas propias.<br/>
 También enseño optimización de PC y videojuegos: más FPS, menos latencia y configuraciones estables, medidas y explicadas para que cualquiera las aplique.
 
 </div>
