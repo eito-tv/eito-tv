@@ -40,8 +40,12 @@ También enseño optimización de PC y videojuegos: más FPS, menos latencia y c
 
 <br/>
 
-<img src="./assets/header-actividad.svg" alt="~/actividad $ snake --play" width="100%"/>
+<img src="./assets/header-pacman.svg" alt="~/actividad $ pacman --play" width="100%"/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/eito-tv/eito-tv/output/snake.svg" alt="Serpiente comiendo mis contribuciones" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eito-tv/eito-tv/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eito-tv/eito-tv/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man comiéndose mis contribuciones mientras lo persiguen los fantasmas" src="https://raw.githubusercontent.com/eito-tv/eito-tv/output/pacman-contribution-graph-dark.svg" width="100%">
+</picture>
 </div>

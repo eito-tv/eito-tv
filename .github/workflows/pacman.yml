@@ -1,4 +1,4 @@
-name: Generar serpiente de contribuciones
+name: Generar Pac-Man de contribuciones
 
 on:
   schedule:
@@ -13,15 +13,17 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 20
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - name: Generar SVG de Pac-Man
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/snake.svg?color_snake=#ff2d55&color_dots=#120d24,#3b82f6,#00e5ff,#32ff7e,#ffd60a
+          games: "pacman"
+          hide_month_labels: "false"
 
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Publicar en la rama output
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
