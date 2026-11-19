@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./assets/banner-eito.svg" alt="Dibujo de Eito hecho de puntos que se disuelve y forma la palabra EITO" width="680"/>
+<img src="./assets/banner-eito-v2.svg" alt="Dibujo de Eito hecho de puntos que se disuelve y forma la palabra EITO" width="680"/>
 
 <br/><br/>
 
-<img src="./assets/profile-card.svg" alt="Eito: ingeniero en sistemas, desarrollo web, automatización y rendimiento" width="100%"/>
+<img src="./assets/profile-card-v2.svg" alt="Eito: ingeniero en sistemas, desarrollo web, automatización y rendimiento" width="100%"/>
 
 <br/>
 
