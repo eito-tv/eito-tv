@@ -4,7 +4,7 @@
 
 <br/><br/>
 
-<img src="./assets/profile-card-v3.svg" alt="Eito: egresado de ingeniería en sistemas, desarrollo web, automatización y rendimiento" width="100%"/>
+<img src="./assets/profile-card-v4.svg" alt="Eito: egresado de ingeniería en sistemas, desarrollo web, automatización y rendimiento" width="100%"/>
 
 <br/>
 
@@ -17,7 +17,7 @@
 
 <br/><br/>
 
-**Egresado de Ingeniería en Sistemas.** Construyo sitios web ligeros, automatizo tareas con Python y GitHub Actions, y trabajo con IA (Claude Code, MCP) para crear herramientas propias.<br/>
+**Egresado de Ingeniería en Sistemas.** Construyo sitios web ligeros, automatizo tareas con Python y GitHub Actions, y trabajo con IA (Claude Code, Codex, MCP) para crear herramientas propias.<br/>
 También enseño optimización de PC y videojuegos: más FPS, menos latencia y configuraciones estables, medidas y explicadas para que cualquiera las aplique.
 
 </div>
@@ -26,7 +26,7 @@ También enseño optimización de PC y videojuegos: más FPS, menos latencia y c
 
 <img src="./assets/header-stack.svg" alt="~/stack $ ls herramientas" width="100%"/>
 
-<img src="./assets/stack.svg" alt="Lenguajes: JavaScript, Python, HTML5, CSS3, SVG, JSON. Web: GitHub Pages, SEO, Open Graph, JSON-LD, WebP, APIs REST. Automatización: Git, GitHub Actions, cron jobs, Discord API. IA: Claude Code, MCP, prompt engineering, ingeniería inversa. Gráficos y datos: NumPy, SciPy, Pillow, Playwright, FFmpeg, animación SMIL. Rendimiento: benchmarks, FPS, 1% low, frametimes, latencia. Contenido: OBS, CapCut, pixel art." width="100%"/>
+<img src="./assets/stack-v2.svg" alt="Lenguajes: JavaScript, Python, PowerShell, HTML5, CSS3, SVG, JSON. Web: GitHub Pages, SEO, Open Graph, JSON-LD, WebP, APIs REST. Automatización: Git, GitHub Actions, cron jobs, Discord API. IA: Claude Code, Codex, MCP, prompt engineering, ingeniería inversa. Gráficos y datos: NumPy, SciPy, Pillow, Playwright, FFmpeg, animación SMIL. Rendimiento: benchmarks, FPS, 1% low, frametimes, latencia. Sistemas: Windows, Linux Mint (básico), formatos VPK. Contenido: OBS, CapCut, pixel art." width="100%"/>
 
 <br/>
 
@@ -34,6 +34,7 @@ También enseño optimización de PC y videojuegos: más FPS, menos latencia y c
 
 <a href="https://github.com/eito-tv/eito-tv.github.io"><img src="./assets/project-pagina.svg" alt="Página personal EITO" width="100%"/></a>
 <a href="https://github.com/eito-tv/refacciones-el-charro"><img src="./assets/project-charro.svg" alt="Refacciones El Charro" width="100%"/></a>
+<img src="./assets/project-modloader.svg" alt="ModLoader: gestor de mods para Left 4 Dead 2 (código privado)" width="100%"/>
 <a href="https://github.com/eito-tv/eito-tv"><img src="./assets/project-banner.svg" alt="Banner de partículas en SVG" width="100%"/></a>
 <a href="https://github.com/eito-tv/Todo-de-mi-Left"><img src="./assets/project-l4d2.svg" alt="Configs de Left 4 Dead 2" width="100%"/></a>
 <a href="https://www.youtube.com/@eito_ttv"><img src="./assets/project-contenido.svg" alt="Contenido y comunidad" width="100%"/></a>
