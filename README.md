@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner-eito-v2.svg" alt="Dibujo de Eito hecho de puntos que se disuelve y forma la palabra EITO" width="680"/>
+<img src="./assets/banner-eito-v3.svg" alt="Dibujo de Eito hecho de puntos que se disuelve y forma la palabra EITO" width="680"/>
 
 <br/><br/>
 
